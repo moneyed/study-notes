@@ -1,0 +1,9 @@
+1.判断：与void show(int a,char b,double c){}构成重载的有：
+    
+a)void show(int x,char y,double z){} // no
+b)int show(int a,double c,char b){} // yes
+c) void show(int a,double c,char b){} // yes
+d) boolean show(int c,char b){} // yes
+e) void show(double c){} // yes 
+f) double show(int x,char y,double z){} // no
+g) void shows(){double c} // no

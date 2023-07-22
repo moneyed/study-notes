@@ -1,0 +1,17 @@
+http://heavy_code_industry.gitee.io/code_heavy_industry/   new代码重工
+
+mvn help:system
+
+https://mvnrepository.com/    搜索依赖信息的网站
+
+
+http://heavy_code_industry.gitee.io/code_heavy_industry/  旧代码重工
+
+解决当数据表出现错误代码1366时的解决方法，在创建数据表的末尾添加语句default charset=utf8;
+
+
+
+
+问题：
+mysql-connector-java(5.1.37) 不能与mysql8.0搭配
+mysql-connector-java(5.1.7) 能与mysql8.0搭配
