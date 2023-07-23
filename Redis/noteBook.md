@@ -1,3 +1,16 @@
+- [零基础小白](#零基础小白)
+    - [Redis安装配置](#redis安装配置)
+    - [Redis 10大数据类型](#redis-10大数据类型)
+    - [Redis持久化](#redis持久化)
+    - [Redis事务](#redis事务)
+    - [Redis管道](#redis管道)
+    - [发布订阅](#发布订阅)
+    - [复制(replica)](#复制replica)
+    - [Redis哨兵(sentinel)](#redis哨兵sentinel)
+    - [Redis集群(cluster)](#redis集群cluster)
+    - [SpringBoot集成Redis](#springboot集成redis)
+- [大厂高阶篇](#大厂高阶篇)
+
 # 零基础小白
 
 ### Redis安装配置
